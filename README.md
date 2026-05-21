@@ -31,10 +31,13 @@ A sophisticated Java desktop ecosystem designed for efficient order and warehous
 * **`dataAccess`**: Handles database connectivity and SQL-based operations via `AbstractDAO`.
 * **`presentation`**: Manages user interactions and interface updates via the `Controller` and `View`.
 
+---
+
 ### Visual Documentation
 | UML Class Diagram | Layered Architecture |
 | :---: | :---: |
 | ![UML Diagram](https://github.com/user-attachments/assets/6ccfdc89-aa47-4c7c-a231-1378bdeaac92) | ![Architecture](https://github.com/user-attachments/assets/09a55a45-e9ec-4635-bd16-165fd791ab27) |
+
 ---
 
 © 2026 Warehouse Management Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
