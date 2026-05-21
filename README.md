@@ -31,10 +31,11 @@ A sophisticated Java desktop ecosystem designed for efficient order and warehous
 * **`dataAccess`**: Handles database connectivity and SQL-based operations via `AbstractDAO`.
 * **`presentation`**: Manages user interactions and interface updates via the `Controller` and `View`.
 
-<img width="4861" height="2382" alt="image" src="https://github.com/user-attachments/assets/6ccfdc89-aa47-4c7c-a231-1378bdeaac92" />
-
-<img width="597" height="702" alt="image" src="https://github.com/user-attachments/assets/09a55a45-e9ec-4635-bd16-165fd791ab27" />
-
+### Visual Documentation
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6ccfdc89-aa47-4c7c-a231-1378bdeaac92" width="400" alt="UML">
+  <img src="https://github.com/user-attachments/assets/09a55a45-e9ec-4635-bd16-165fd791ab27" width="400" alt="Architecture">
+</div>
 
 ---
 
