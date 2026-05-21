@@ -33,6 +33,9 @@ A sophisticated Java desktop ecosystem designed for efficient order and warehous
 
 <img width="4861" height="2382" alt="image" src="https://github.com/user-attachments/assets/6ccfdc89-aa47-4c7c-a231-1378bdeaac92" />
 
+<img width="597" height="702" alt="image" src="https://github.com/user-attachments/assets/09a55a45-e9ec-4635-bd16-165fd791ab27" />
+
+
 ---
 
 © 2026 Warehouse Management Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
