@@ -183,6 +183,7 @@ public abstract class AbstractDAO<T>
             // populeaza parametrii pentru update folosind reflection
             IntStream.range(0, fields.size()).forEach(i ->
             {
+
                 try
                 {
                     fields.get(i).setAccessible(true);
