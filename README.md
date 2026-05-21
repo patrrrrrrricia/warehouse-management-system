@@ -34,7 +34,7 @@ A sophisticated Java desktop ecosystem designed for efficient order and warehous
 ---
 
 ### Visual Documentation
-| UML Class Diagram | Project Architecture & Components |
+| UML Class Diagram | Layered Architecture |
 | :---: | :---: |
 | ![UML Diagram](https://github.com/user-attachments/assets/6ccfdc89-aa47-4c7c-a231-1378bdeaac92) | <div align="center"> <img width="400" src="https://github.com/user-attachments/assets/09a55a45-e9ec-4635-bd16-165fd791ab27"> <br><br> <img width="400" src="https://github.com/user-attachments/assets/7d0c8daa-c300-4e88-bc19-80a223c30cfe"> <br><br> <img width="400" src="https://github.com/user-attachments/assets/3571be3f-1ef4-4144-b82e-f7d936d3bab4"> <br><br> <img width="400" src="https://github.com/user-attachments/assets/b033d6f7-2696-478e-a110-c3143af2c914"> </div> |
 
