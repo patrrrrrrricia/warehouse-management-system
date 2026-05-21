@@ -13,7 +13,9 @@ A sophisticated Java desktop ecosystem designed for efficient order and warehous
 
 ![Java](https://img.shields.io/badge/java-21+-%23FF69B4.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java_Swing-%23FF69B4.svg?style=for-the-badge&logo=java&logoColor=white) 
 
-![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-%234F4F4F.svg?style=for-the-badge&logo=dependencyci&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4F4F4F?style=for-the-badge&logo=mysql&logoColor=white)
+![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-%234F4F4F.svg?style=for-the-badge&logo=dependencyci&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4F4F4F?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
 ## 🎀 Core Functionality
