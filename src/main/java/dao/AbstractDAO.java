@@ -11,7 +11,7 @@ import java.util.stream.IntStream;
  * AbstractDAO - Clasa generica pentru accesul la date (Data Access Object)
  *             - implementeaza operatiile de baza folosind tehnica (Reflection)
  * pentru a mapa automat obiectele Java la tabelele din baza de date
- * * @param <T> Tipul entitatii gestionate (ex: Client, Product, Order)
+ * * @param T Tipul entitatii gestionate (ex: Client, Product, Order)
  */
 public abstract class AbstractDAO<T>
 {
