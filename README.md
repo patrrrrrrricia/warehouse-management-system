@@ -1,11 +1,11 @@
 # Warehouse Management System
 
-## 💻 Overview
+## Overview
 A sophisticated Java desktop ecosystem designed for efficient order and warehouse management. This platform facilitates seamless synchronization between clients, products, and order processing. Built on a robust **Java 21** core, it transforms data into a sophisticated administrative experience, blending an intuitive **Swing GUI** with deep analytical intelligence through **Reflection**.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Backend:** Java 21+, Object-Oriented Design
 * **Frontend:** Java Swing (Desktop UI)
 * **Architecture:** Layered Architecture (Model-View-Controller)
@@ -16,7 +16,7 @@ A sophisticated Java desktop ecosystem designed for efficient order and warehous
 ![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-%234F4F4F.svg?style=for-the-badge&logo=dependencyci&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4F4F4F?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Entity Management:** Full visibility and CRUD management for Clients and Product catalogs.
 * **Order Engine:** Processing orders with automatic stock validation, inventory updates, and invoice generation.
 * **Advanced Data Analytics:**
@@ -25,7 +25,7 @@ A sophisticated Java desktop ecosystem designed for efficient order and warehous
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`model`**: Defines core entities (`Client`, `Product`, `Order`) and immutable `Bill` records.
 * **`businessLogic`**: Contains the logic for order validation, calculation, and stock management.
 * **`dataAccess`**: Handles database connectivity and SQL-based operations via `AbstractDAO`.
