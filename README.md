@@ -11,9 +11,9 @@ A sophisticated Java desktop ecosystem designed for efficient order and warehous
 * **Architecture:** Layered Architecture (Model-View-Controller)
 * **Persistence:** MySQL Database & JDBC (Data Access Layer)
 
-![Java](https://img.shields.io/badge/java-21+-%23FF69B4.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java_Swing-%23FF69B4.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-21+-ECCACB.svg?style=for-the-badge&logo=openjdk&logoColor=3B3B3B) ![Java Swing](https://img.shields.io/badge/Java_Swing-ECCACB.svg?style=for-the-badge&logo=java&logoColor=3B3B3B) 
 
-![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-%234F4F4F.svg?style=for-the-badge&logo=dependencyci&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4F4F4F?style=for-the-badge&logo=mysql&logoColor=white)
+![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-3B3B3B.svg?style=for-the-badge&logo=dependencyci&logoColor=FCFAFA) ![MySQL](https://img.shields.io/badge/MySQL-3B3B3B.svg?style=for-the-badge&logo=mysql&logoColor=FCFAFA)
 ---
 
 ## Core Functionality
